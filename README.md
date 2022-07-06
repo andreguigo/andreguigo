@@ -1,8 +1,8 @@
-# Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Eu sou André
+# Olá! Eu sou André.
 
-Graduando 🎓 em Análise e Desenvolvimento de Software, atualmente sou desenvolvedor pleno na Fusion DMS / Praxio Tecnologia
+Graduando 🎓 em DevOps, atualmente sou programador pleno na Kurier Tecnologia.
 
-Dá pra me encontrar em
+Quer saber mais? Dá pra me encontrar em
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andreguigo/)](https://www.linkedin.com/in/andreguigo/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:andreguigo@gmail.com)](mailto:andreguigo@gmail.com)
 
